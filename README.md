@@ -6,7 +6,7 @@ I'm using this repository to track my progress in Data Structures & Algorithms a
 
 ## 📊 Progress
 
-- Problems Solved: 1
+- Problems Solved: 2
 - Language: Python
 - LeetCode: [AyanHitkari3107](https://leetcode.com/u/AyanHitkari3107/)
 
@@ -14,6 +14,7 @@ I'm using this repository to track my progress in Data Structures & Algorithms a
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
+| 1 | Two Sum | Easy | [Python](./1-two-sum.py) |
 | 3524 | Find X Value of Array I | Medium | [Python](./3524-find-x-value-of-array-i.py) |
 
 ## 🎯 Goal
