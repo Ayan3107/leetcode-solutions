@@ -6,7 +6,7 @@ I'm using this repository to track my progress in Data Structures & Algorithms a
 
 ## 📊 Progress
 
-- Problems Solved: 4
+- Problems Solved: 5
 - Language: Python
 - LeetCode: [AyanHitkari3107](https://leetcode.com/u/AyanHitkari3107/)
 
@@ -18,6 +18,7 @@ I'm using this repository to track my progress in Data Structures & Algorithms a
 | 169 | Majority Element | Easy | [Python](./169-majority-element.py) |
 | 3524 | Find X Value of Array I | Medium | [Python](./3524-find-x-value-of-array-i.py) |
 | 3525 | Find X Value of Array II | Hard | [Python](./3525-find-x-value-of-array-ii.py) |
+| 125 | Valid Palindrome | Easy | [Python](./125-valid-palindrome.py) |
 
 ## 🎯 Goal
 
