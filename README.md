@@ -6,7 +6,7 @@ I'm using this repository to track my progress in Data Structures & Algorithms a
 
 ## 📊 Progress
 
-- Problems Solved: 7
+- Problems Solved: 8
 - Language: Python
 - LeetCode: [AyanHitkari3107](https://leetcode.com/u/AyanHitkari3107/)
 
@@ -21,6 +21,7 @@ I'm using this repository to track my progress in Data Structures & Algorithms a
 | 3525 | Find X Value of Array II | Hard | [Python](./3525-find-x-value-of-array-ii.py) |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | [Python](./1658-minimum-operations-to-reduce-x-to-zero.py) |
 | 20 | Valid Parentheses | Easy | [Python](./20-valid-parentheses.py) |
+| 3550 | Smallest Index With Digit Sum Equal to Index | Easy | [Python](./3550-smallest-index-with-digit-sum-equal-to-index.py) |
 
 ## 🎯 Goal
 
