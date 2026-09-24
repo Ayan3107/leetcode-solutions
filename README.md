@@ -6,7 +6,7 @@ I'm using this repository to track my progress in Data Structures & Algorithms a
 
 ## 📊 Progress
 
-- Problems Solved: 6
+- Problems Solved: 7
 - Language: Python
 - LeetCode: [AyanHitkari3107](https://leetcode.com/u/AyanHitkari3107/)
 
@@ -20,6 +20,7 @@ I'm using this repository to track my progress in Data Structures & Algorithms a
 | 3524 | Find X Value of Array I | Medium | [Python](./3524-find-x-value-of-array-i.py) |
 | 3525 | Find X Value of Array II | Hard | [Python](./3525-find-x-value-of-array-ii.py) |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | [Python](./1658-minimum-operations-to-reduce-x-to-zero.py) |
+| 20 | Valid Parentheses | Easy | [Python](./20-valid-parentheses.py) |
 
 ## 🎯 Goal
 
