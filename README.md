@@ -7,6 +7,7 @@ My solutions to LeetCode problems, written while learning Data Structures and Al
 | #    | Problem                                                                                                                                         | Difficulty |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                               | Easy       |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                                       | Hard       |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                           | Easy       |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                             | Easy       |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                             | Easy       |
@@ -22,7 +23,7 @@ My solutions to LeetCode problems, written while learning Data Structures and Al
 | 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/)                                                             | Hard       |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)                     | Easy       |
 
-**Total Solved: 15**
+**Total Solved: 16**
 
 ## 🧠 Topics I'm Practicing
 
