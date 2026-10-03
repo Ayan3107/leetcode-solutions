@@ -24,8 +24,9 @@ My solutions to LeetCode problems, written while learning Data Structures and Al
 | 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/)                                                               | Medium     |
 | 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/)                                                             | Hard       |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)                     | Easy       |
+| 14 | Longest Common Prefix | Python |
 
-**Total Solved: 18**
+**Total Solved: 19**
 
 ## 🧠 Topics I'm Practicing
 
